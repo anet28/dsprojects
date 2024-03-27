@@ -12,6 +12,7 @@
 - phik
 - Pipeline
 - ColumnTransformer
+- GridSearchCV
 - DecisionTreeRegressor
 - LigthGBM
 - LinearRegression
